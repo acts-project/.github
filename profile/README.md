@@ -16,6 +16,17 @@ Furthermore, it hosts an umbrella project, called `traccc` that aims to re-imple
 
 ## Supported by
 
-<img src="https://github.com/user-attachments/assets/07a45daa-fbe7-4f3e-ab22-04f0e573279a" height="100"> CERN EP R&D <br>
-<img src="https://github.com/user-attachments/assets/e489d4d3-3772-411c-a34b-86cf121bd542" height="100"> IRIS-HEP<br>
-<img src="https://github.com/user-attachments/assets/a8ac4283-7cee-4622-b281-fa01dfd1619a" height="100"> AIDAInnova<br>
+<table border=0>
+ <tr>
+ <td><img src="https://github.com/user-attachments/assets/07a45daa-fbe7-4f3e-ab22-04f0e573279a" height="100"></td>
+ <td>CERN EP R&D</td>
+</tr>
+<tr>
+ <td><img src="https://github.com/user-attachments/assets/e489d4d3-3772-411c-a34b-86cf121bd542" height="100"></td>
+ <td>IRIS-HEP</td>
+</tr>
+<tr>
+ <td><img src="https://github.com/user-attachments/assets/a8ac4283-7cee-4622-b281-fa01dfd1619a" height="100"></td>
+ <td>AIDAInnova</td>
+</tr>
+</table>
