@@ -16,6 +16,6 @@ Furthermore, it hosts an umbrella project, called `traccc` that aims to re-imple
 
 ## Supported by
 
-<img height="5cm" src="https://github.com/user-attachments/assets/07a45daa-fbe7-4f3e-ab22-04f0e573279a">
-<img height="5cm" src="https://github.com/user-attachments/assets/a8ac4283-7cee-4622-b281-fa01dfd1619a">
-<img src="https://github.com/user-attachments/assets/e489d4d3-3772-411c-a34b-86cf121bd542)">
+<img src="https://github.com/user-attachments/assets/07a45daa-fbe7-4f3e-ab22-04f0e573279a" height="400" >
+<img src="https://github.com/user-attachments/assets/a8ac4283-7cee-4622-b281-fa01dfd1619a" height="400">
+<img src="https://github.com/user-attachments/assets/e489d4d3-3772-411c-a34b-86cf121bd542" height="400">
