@@ -13,3 +13,9 @@ Furthermore, it hosts an umbrella project, called `traccc` that aims to re-imple
  - covfie: a covariant vector field library, e.g. for the description of the magnetic field
  - detray: a GPU friendly geometry library for describing the reconstruction geometry
  - algebra-plugins: an abstraction layer for linear algebra and float precision
+
+## Supported by
+
+![CERN EP R&D](https://github.com/user-attachments/assets/07a45daa-fbe7-4f3e-ab22-04f0e573279a)
+![AIDAinnova](https://github.com/user-attachments/assets/a8ac4283-7cee-4622-b281-fa01dfd1619a)
+![IRIS-HEP](https://github.com/user-attachments/assets/e489d4d3-3772-411c-a34b-86cf121bd542)
