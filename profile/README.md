@@ -32,4 +32,9 @@ Furthermore, it hosts an umbrella project, called `traccc` that aims to re-imple
  <td><a href="https://aidainnova.web.cern.ch">AIDAInnova</a></td>
  <td>Discoveries in particle physics are technology-driven; AIDAinnova will provide state-of-the-art upgrades to research infrastructures, such as test beams, in order to unfold the scientific potential of detector technologies. The project will run for a duration of four years from April 2021 to March 2025 and is co-funded by the European Commission under its Horizon 2020 programme.</td>
 </tr>
+ <tr>
+  <td><img src="https://github.com/user-attachments/assets/6da60999-a7e9-4837-b53a-970c38d517a5" height="100"></td>
+  <td><a href="https://nextgentriggers.web.cern.ch">CERN NextGen Triggers</a></td>
+  <td>The Next Generation Triggers project, or NextGen, started in January 2024 as a collaboration between CERN (the Experimental Physics, Theoretical Physics and Information Technology Departments) and the ATLAS and CMS experiments funded by the Eric and Wendy Schmidt Stratic Fund for Fundamental Research. The key objective of the five-year NextGen project is to get more physics information out of the HL-LHC data.</td>
+ </tr>
 </table>
