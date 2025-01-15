@@ -18,22 +18,22 @@ Furthermore, it hosts an umbrella project, called `traccc` that aims to re-imple
 
 <table border=0>
  <tr>
- <td width=200><img src="https://github.com/user-attachments/assets/07a45daa-fbe7-4f3e-ab22-04f0e573279a" height="100"></td>
+ <td width=220><img src="https://github.com/user-attachments/assets/07a45daa-fbe7-4f3e-ab22-04f0e573279a" height="100"></td>
  <td><a href="https://ep-dep.web.cern.ch/node/7537">CERN EP R&D</a></td>
   <td>The CERN EP department has launched a strategic R&D programme on technologies for future experiments. This initiative covers detector hardware, electronics, software and detector magnets for new experiments and detector upgrades beyond LHC phase II.</td>
 </tr>
 <tr>
- <td width=200><img src="https://github.com/user-attachments/assets/e489d4d3-3772-411c-a34b-86cf121bd542" height="100"></td>
+ <td width=220><img src="https://github.com/user-attachments/assets/e489d4d3-3772-411c-a34b-86cf121bd542" height="100"></td>
  <td><a href="https://iris-hep.org">IRIS-HEP</a></td>
  <td>IRIS-HEP is a software institute funded by the National Science Foundation. It is developing state-of-the-art software cyberinfrastructure required for the challenges of data intensive scientific research at the High Luminosity Large Hadron Collider (HL-LHC) at CERN, and other planned HEP experiments of the 2020’s.</td>
 </tr>
 <tr>
- <td width=200><img src="https://github.com/user-attachments/assets/a8ac4283-7cee-4622-b281-fa01dfd1619a" height="100"></td>
+ <td width=220><img src="https://github.com/user-attachments/assets/a8ac4283-7cee-4622-b281-fa01dfd1619a" height="100"></td>
  <td><a href="https://aidainnova.web.cern.ch">AIDAInnova</a></td>
  <td>Discoveries in particle physics are technology-driven; AIDAinnova will provide state-of-the-art upgrades to research infrastructures, such as test beams, in order to unfold the scientific potential of detector technologies. The project will run for a duration of four years from April 2021 to March 2025 and is co-funded by the European Commission under its Horizon 2020 programme.</td>
 </tr>
  <tr>
-  <td><img src="https://github.com/user-attachments/assets/6da60999-a7e9-4837-b53a-970c38d517a5" height="100"></td>
+  <td width=22-><img src="https://github.com/user-attachments/assets/6da60999-a7e9-4837-b53a-970c38d517a5" height="100"></td>
   <td><a href="https://nextgentriggers.web.cern.ch">CERN NextGen Triggers</a></td>
   <td>The Next Generation Triggers project, or NextGen, started in January 2024 as a collaboration between CERN (the Experimental Physics, Theoretical Physics and Information Technology Departments) and the ATLAS and CMS experiments funded by the Eric and Wendy Schmidt Stratic Fund for Fundamental Research. The key objective of the five-year NextGen project is to get more physics information out of the HL-LHC data.</td>
  </tr>
