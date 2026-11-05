@@ -10,11 +10,13 @@ Project responsible: Andreas Salzburger, Andreas.Salzburger@cern.ch
 
 ACTS is organized in a core project `acts-project/acts` which holds the software components and a simple example/demonstration framework that showcases typical track reconstruction applications using the OpenDataDetector.
 
-Furthermore, it hosts an umbrella project, called `traccc` that aims to re-implement the standard `Acts` chain for massively parallel hardware. `traccc` relies on the sub libraries:
+Furthermore, it ACTS was used as an umbrella project, called `traccc` that aims to re-implement the standard `Acts` chain for massively parallel hardware. `traccc` relies on the sub libraries:
  - vecmem: a library for the memory management of containers
  - covfie: a covariant vector field library, e.g. for the description of the magnetic field
  - detray: a GPU friendly geometry library for describing the reconstruction geometry
  - algebra-plugins: an abstraction layer for linear algebra and float precision
+
+By summer 2026, the GPU based track reconstruction libraries `detray` and `traccc` have been re-integrated into the ACTS main repository to harmonize and streamline the co-development. `covfie` and `vecmem` remain standalone libraries, `algebra-plugins` have been integrated into the relocated `acts/Detray` directory.
 
 ## Supported by
 
