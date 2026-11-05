@@ -6,6 +6,8 @@ The ACTS core project implements event data model, geometry, and tracking and ve
 
 ## Project organization
 
+Project responsible: Andreas Salzburger, Andreas.Salzburger@cern.ch
+
 ACTS is organized in a core project `acts-project/acts` which holds the software components and a simple example/demonstration framework that showcases typical track reconstruction applications using the OpenDataDetector.
 
 Furthermore, it hosts an umbrella project, called `traccc` that aims to re-implement the standard `Acts` chain for massively parallel hardware. `traccc` relies on the sub libraries:
